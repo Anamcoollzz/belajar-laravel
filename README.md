@@ -4,4 +4,6 @@
 
 Ini hanyalah repository untuk pembelajaran laravel (iseng-iseng semata)
 
+Jika repository saya kelihatan sedikit, itu karena kebanyakan saya jadikan private repo (Khusus projek)
+
 <a href="https://anamapp.site">AnamApp</a>
